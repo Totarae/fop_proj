@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<addresses>
+    <address>
+        <name>Александр Орлов</name>
+        <city>Воронеж</city>
+        <street>Ленина</street>
+        <number>18/3</number>
+    </address>
+    <address>
+        <name>Владимир Бондарь</name>
+        <city>Таганрог</city>
+        <street>Петровская</street>
+        <number>38</number>
+    </address>
+    <address>
+        <name>Василий Лебедев</name>
+        <city>Санкт-Петербург</city>
+        <street>Литейный пер.</street>
+        <number>224</number>
+    </address>
+</addresses>
